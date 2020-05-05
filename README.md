@@ -4,33 +4,33 @@ Bed Asset for VRChat
 
 VRCBed (Prototype)
 
-y“à—ez
-‚±‚ÌƒAƒZƒbƒg‚ÍAƒAƒoƒ^‚ğ‰¡“|‚·p¨‚É‚·‚éƒAƒZƒbƒg‚É‚È‚è‚Ü‚·B‚±‚ÌƒAƒZƒbƒg‚É‚ÍAƒV[ƒ“ƒtƒ@ƒCƒ‹‚ğŠÜ‚İ‚Ü‚¹‚ñ‚Ü‚½A‚±‚Ì§ì‚É‚ ‚½‚Á‚ÄA‰º‹LURL‚Ì‹L–‚Ì“à—e‚ğQl‚É‚µ‚Ü‚µ‚½B
+ã€å†…å®¹ã€‘
+ã“ã®ã‚¢ã‚»ãƒƒãƒˆã¯ã€ã‚¢ãƒã‚¿ã‚’æ¨ªå€’ã™å§¿å‹¢ã«ã™ã‚‹ã‚¢ã‚»ãƒƒãƒˆã«ãªã‚Šã¾ã™ã€‚ã“ã®ã‚¢ã‚»ãƒƒãƒˆã«ã¯ã€ã‚·ãƒ¼ãƒ³ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å«ã¿ã¾ã›ã‚“ã¾ãŸã€ã“ã®åˆ¶ä½œã«ã‚ãŸã£ã¦ã€ä¸‹è¨˜URLã®è¨˜äº‹ã®å†…å®¹ã‚’å‚è€ƒã«ã—ã¾ã—ãŸã€‚
 
 https://vrcworld.wiki.fc2.com/wiki/%E5%AF%9D%E3%82%89%E3%82%8C%E3%82%8B%E3%83%99%E3%83%83%E3%83%89
 
 
-yContentz
+ã€Contentã€‘
 This asset is an asset that makes the avatar lie sideways. This asset does not include scene files. In making this, I referred to the content of the article at the following URL.
 
 https://vrcworld.wiki.fc2.com/wiki/%E5%AF%9D%E3%82%89%E3%82%8C%E3%82%8B%E3%83%99%E3%83%83%E3%83%89
 
 
-yŠJ”­ŠÂ‹«z
+ã€é–‹ç™ºç’°å¢ƒã€‘
 Unity 2018.4.20.f1
-VRChat SDK2 2020.04.25.12.49
+VRChat SDK2 2020.04.25.12.49 (with VRChat License)
 
 
-yDevelopment environmentz
+ã€Development environmentã€‘
 Unity 2018.4.20.f1
-VRChat SDK2 2020.04.25.12.49
+VRChat SDK2 2020.04.25.12.49 (with VRChat License)
 
-yg—p‹–‘øz
+ã€ä½¿ç”¨è¨±è«¾ã€‘
 BSD Lite License,
-’A‚µAìÒ‚Ì’˜ìŒ •\¦‚Í•K{‚Å‚Í‚È‚¢B‚Ü‚½A“Y•t‚µ‚Ä‚¢‚éì—á‰æ‘œƒtƒ@ƒCƒ‹‚ÌŒöŠJA÷“n•À‚Ñ‚É“]Ú‚Í‹Ö~‚µ‚Ü‚·B
+ä½†ã—ã€ä½œè€…ã®è‘—ä½œæ¨©è¡¨ç¤ºã¯å¿…é ˆã§ã¯ãªã„ã€‚ã¾ãŸã€æ·»ä»˜ã—ã¦ã„ã‚‹ä½œä¾‹ç”»åƒãƒ•ã‚¡ã‚¤ãƒ«ã®å…¬é–‹ã€è­²æ¸¡ä¸¦ã³ã«è»¢è¼‰ã¯ç¦æ­¢ã—ã¾ã™ã€‚
 
 
-yLicense agreementz
+ã€License agreementã€‘
 BSD Lite License.
 However, the copyright notice of the author is not mandatory. Then, it is prohibited to publish, transfer or reprint the attached example image file.
 
